@@ -1,23 +1,23 @@
-Title: Diamond Price Prediction
+Title: Stock Price Prediction with Sentiment Analysis
 
 ----------------------------------------------------------------------
 
 README CONTENTS
-0.1 Group Information
-0.2 Use
-0.3 Data information
-0.4 Folder Contents
+1 Group Information
+2 Use
+3 Data information
+4 Folder Contents
 
 
 ----------------------------------------------------------------------
-0.1 Group Information
+1 Group Information
 
-This project was completed by Himanshu Jat, Richard Hong and 
-Manoj Venkatachalaiah for DSCI 631, Winter 2021. 
+This project was completed by Richard Hong, Joan Kibaara, ChengYi Wang and 
+Manoj Venkatachalaiah for DSCI 591 and 592, Drexel University 
 
 
-----------------------------------------------------------------------
-0.2 Use
+------------------------------------------------------------------------------------------
+2 Use
 
 Because this project was completed by using data taken from publicly available websites,
 it has all of the same free use protections as that data. In other 
@@ -26,21 +26,14 @@ things such as profit or identifying individuals.
 
 Anyone can use the code without specifically citing the authors. 
 
+------------------------------------------------------------------------------------------
+3 The final datasets were assembled using scrapped news data from the subreddit 'r/news',
+Google trends data and Stock market data from Yahoo Finance.
 
-----------------------------------------------------------------------
-0.3 
-The dataset was acquired from Kaggle. 
-Here's the link to the dataset: https://www.kaggle.com/shivam2503/diamonds
+------------------------------------------------------------------------------------------
+4 Folder Contents
 
-----------------------------------------------------------------------
-0.4 Folder Contents
+The repository includes all the code for data acquisition, preprocessing, EDA and predictive modeling and the final report. All code is in python. 
 
-dsci631_group_project_group5.ipynb	   Project code
-
-diamonds.csv				   Dataset used in project
-
-project_presentation.pdf		   Slides in pdf format
-
-project_presentation.pptx		   Slides in powerpoint presentation format
-----------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 
