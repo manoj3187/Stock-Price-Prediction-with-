@@ -19,9 +19,9 @@ Manoj Venkatachalaiah for DSCI 591 and 592, Drexel University
 -------------------------------------------------------------------------------------------------------------------
 2 Use
 
-Because this project was completed by using data taken from publicly available websites,
-it has all of the same free use protections as that data. In other 
-words, our work can be used for research but cannot be used for 
+Because this project was completed by using data taken from publicly 
+available websites,it has all of the same free use protections as that data. 
+In other words, our work can be used for research but cannot be used for 
 things such as profit or identifying individuals.
 
 Anyone can use the code without specifically citing the authors. 
@@ -33,7 +33,8 @@ Google trends data and Stock market data from Yahoo Finance.
 -------------------------------------------------------------------------------------------------------------------
 4 Folder Contents
 
-The repository includes all the code for data acquisition, preprocessing, EDA and predictive modeling and the final report. All code is in python. 
+The repository includes all the code for data acquisition, preprocessing, EDA and predictive 
+modeling and the final report. All code is in python. 
 
 -------------------------------------------------------------------------------------------------------------------
 
