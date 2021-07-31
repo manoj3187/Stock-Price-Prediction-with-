@@ -27,7 +27,7 @@ things such as profit or identifying individuals.
 Anyone can use the code without specifically citing the authors. 
 
 -------------------------------------------------------------------------------------------------------------------
-3 The final datasets were assembled using scrapped news data from the subreddit 'r/news',
+3 The final datasets were assembled using scraped news data from the subreddit 'r/news',
 Google trends data and Stock market data from Yahoo Finance.
 
 -------------------------------------------------------------------------------------------------------------------
